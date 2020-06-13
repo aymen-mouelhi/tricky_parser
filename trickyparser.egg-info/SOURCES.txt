@@ -1,0 +1,8 @@
+README.md
+setup.py
+trickyparser/__init__.py
+trickyparser/parser.py
+trickyparser.egg-info/PKG-INFO
+trickyparser.egg-info/SOURCES.txt
+trickyparser.egg-info/dependency_links.txt
+trickyparser.egg-info/top_level.txt
