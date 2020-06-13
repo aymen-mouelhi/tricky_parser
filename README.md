@@ -3,7 +3,13 @@
 This package helps parsing a specif format of a web data file.
 
 ## Installation
-Using pip
+
+Start by cloning the repository:
+```
+git clone https://github.com/aymen-mouelhi/tricky_parser.git
+cd tricky_parser
+```
+Then
 ```
 pip install -r requirements.txt
 python setup.py install
